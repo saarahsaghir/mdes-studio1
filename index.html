@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col embed-responsive embed-responsive-16by9">
             <!--<img src="http://via.placeholder.com/1900x1080">-->
-            <video class="embed-responsive-item" controls autoplay width="1900" height="1080" id="video">
+            <video class="embed-responsive-item" autoplay="autoplay" width="100%" height="auto" id="video">
                 <source src="test/test-video.mp4" type="video/mp4">
             </video>
             </div>
@@ -27,7 +27,7 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-sm-5 img-fluid" id="top"><img src="logo.svg"></div>
+            <div class="col center img-fluid" id="top"><img src="logo.png"></div>
         </div>
         <div class="row">
             <div class="col">&nbsp;
@@ -951,7 +951,7 @@
     <script>/*<![CDATA[*/
       $(document).ready(function(){
         $('video').on('ended',function(){
-                window.scrollTo(0, 1080);
+          window.location = 'index.html#top';
           console.log('Video has ended!');
             $('video').trigger('pause');
         });
