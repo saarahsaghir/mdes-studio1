@@ -63,11 +63,9 @@
     ———————————————————————————————— */
 
     #cover {
-    //background-image: url("test/test1.png");
       background: #bde;
       background-position: center;
       background-size: cover;
-    //opacity: .5;
       background-color: #30459c;
       background-blend-mode: multiply;
       }
@@ -75,6 +73,11 @@
     #cover:hover{
       background-color: #30459c;
       background-blend-mode:normal;
+      color: #30459c;
+    }
+
+    #cover h1:hover{
+      //color: #30459c;
     }
 
     .blue {
