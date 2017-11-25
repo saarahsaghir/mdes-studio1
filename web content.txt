@@ -1,6 +1,6 @@
 VISIBLE CONTENT
 ———————————————
-Cover Image: 1800 x 200 px
+Cover Image (PNG): 1800 x 200 px
 + Name / Keyword
 
 
@@ -10,7 +10,7 @@ INSIDE CONTENT
 Heading or Title
 + Subheading
 
-Layout Images (in slider)
+Layout Images (PNG) (in slider)
     about 3600px wide
 
 Essay Text
@@ -18,8 +18,11 @@ Essay Text
 + Pull Quotes
 + Citations (on hover)
 
+please indicate which paragraph the images & quotes should go after.
+
+
 Bio Section
 + Name
 + Bio
 + Links (website, etc)
-+ Photo (in blue monotone?)
++ Photo (in blue monotone)
