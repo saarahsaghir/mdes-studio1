@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col embed-responsive embed-responsive-16by9">
             <!--<img src="http://via.placeholder.com/1900x1080">-->
-            <video class="embed-responsive-item" controls autoplay width="1900" height="1080" id="video">
+            <video class="embed-responsive-item" autoplay="autoplay" width="100%" height="auto" id="video" onclick="playVideo()">
                 <source src="test/test-video.mp4" type="video/mp4">
             </video>
             </div>
@@ -27,7 +27,10 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-sm-5"><h1><img src="logo.svg"></h1></div>
+            <div class="col center img-fluid" id="top">
+                <br><br>
+                <img src="logo.png">
+            </div>
         </div>
         <div class="row">
             <div class="col">&nbsp;
@@ -951,12 +954,30 @@
     <script>/*<![CDATA[*/
       $(document).ready(function(){
         $('video').on('ended',function(){
-                window.scrollTo(0, 1080);
+          window.location = 'index.html#top';
           console.log('Video has ended!');
             $('video').trigger('pause');
         });
       });
-    /*]]>*/</script>
+    /*]]>*/
+    </script>
+
+<!--    <script>
+        $('#video video').bind('ended', function(){
+           $(this).parent().animate({ opacity: 0 }, 3000);
+        })
+    </script>
+    <script>
+    function playVideo(){
+       var video = document.getElementById('video');
+      video.play();
+      video.addEventListener('ended',function(){
+
+    //NEW TARGET URL
+      window.location = 'http://www.google.com';
+       });
+    }
+    </script>-->
     <script>
     $(document).ready(function(){
         $('[data-toggle="tooltip"]').tooltip();
