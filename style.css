@@ -1,0 +1,176 @@
+/*  ——————————————————————————
+    GLOBAL STYLES — TYPOGRAPHY
+    —————————————————————————— */
+
+    html {
+      font-size: 1rem;
+    }
+
+    body {
+      font-family: Garamond;
+    //font-size: 12px;
+    //line-height:1.3;
+      background-image: url("template/bg1.png");
+      color: #30459c;
+    }
+
+    a {
+      color: #db4226;
+    }
+
+    a:hover {
+      color: #db4226;
+      text-decoration: none;
+      font-style: italic;
+    }
+
+    h1 {
+      text-align: center;
+      font-family: "Futura-CondensedExtraBold", Futura, sans-serif;
+      font-stretch: condensed;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+
+    h3 {
+      font-family: Garamond;
+      font-size: 1.2rem;
+      line-height: 1;
+    }
+
+    sup a {
+      font-family: "Futura-Condensed", Futura, sans-serif;
+      color: #30459c;
+      margin-left: .5px;
+    }
+
+    sup a:hover{
+      color: #246fbc;
+      border: none;
+      text-decoration: none;
+    }
+
+    .white {
+      color: #fff;
+    }
+
+    .center {
+      text-align: center;
+    }
+
+/*  ————————————————————————————————
+    GLOBAL STYLES — COVER THUMBNAILS
+    ———————————————————————————————— */
+
+    #cover {
+    //background-image: url("test/test1.png");
+      background: #bde;
+      background-position: center;
+      background-size: cover;
+    //opacity: .5;
+      background-color: #30459c;
+      background-blend-mode: multiply;
+      }
+
+    #cover:hover{
+      background-color: #30459c;
+      background-blend-mode:normal;
+    }
+
+    .blue {
+      border-bottom: solid 10px #db4226;
+    }
+
+    .red {
+      border-bottom: solid 10px #db4226;
+    }
+
+/*  ——————————————————————————————
+    RESPONSIVE STYLES — GENERAL
+    —————————————————————————————— */
+
+    .offset-left {
+      margin-left: 0;
+      padding-right: 0;
+    }
+
+    .offset-right {
+      margin-right: 0 !important;
+      padding-left: 0;
+    }
+
+    .offset-right-q {
+      margin-right: 0;
+      padding-left: 0;
+      width: 100%;
+    }
+
+    .offset-left-q {
+      margin-left: 0;
+      padding-right: 0;
+      width: 100%;
+    }
+/*  ——— RESPONSIVE STYLES — MOBILE */
+    @include media-breakpoint-up(sm) {
+             html {
+               font-size: 1.2rem;
+             }
+    }
+
+/*  ——— RESPONSIVE STYLES — TABLET */
+    @include media-breakpoint-up(md) {
+             html {
+               font-size: 1.4rem;
+             }
+    }
+
+/*  ——— RESPONSIVE STYLES — LAPTOP */
+    @include media-breakpoint-up(lg) {
+             html {
+                font-size: 1.6rem;
+             }
+    }
+/*  ———————————————————————————————
+    RESPONSIVE STYLES — IMAGE WRAPS
+    ——————————————————————————————— */
+    @media screen and (min-width: 800px) {
+
+        body {
+            background-color: lightgreen;
+        }
+
+        h3 {
+            font-size: 1.5rem;
+        }
+
+        .offset-left {
+          float: left;
+          margin-left: -50%;
+          padding-right: 30px;
+        }
+
+        .offset-right {
+          float: right;
+          margin-right: -50%;
+          padding-left: 30px;
+        }
+
+        .offset-right-q {
+          float: right;
+          margin-right: -30%;
+          padding-left: 30px;
+          width: 60%;
+        }
+
+        .offset-left-q {
+          float: left;
+          margin-left: -30%;
+          padding-right: 10px;
+          width: 60%;
+        }
+
+}
+
+
+
+
