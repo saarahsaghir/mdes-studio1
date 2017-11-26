@@ -32,6 +32,23 @@
       text-transform: uppercase;
       font-size: 2rem;
     }
+    h5 {
+        font-family: "Futura-CondensedExtraBold", Futura, sans-serif;
+        font-stretch: condensed;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    a h5{
+    color: #30459c;
+    }
+
+    a h5:hover {
+      color: #30459c;
+      text-decoration: none;
+      text-decoration-color: none;
+      font-style: italic;
+    }
 
     h3 {
       font-family: Garamond;
@@ -40,7 +57,7 @@
     }
 
     sup a {
-      font-family: "Futura-Condensed", Futura, sans-serif;
+    //  font-family: "Futura-Condensed", Futura, sans-serif;
       color: #30459c;
       margin-left: .5px;
     }
@@ -97,29 +114,33 @@
         -moz-border-radius: 50px;
         -webkit-border-radius: 50px;
         border-radius: 50px; }
-/*  ——————————————————————————————
-    RESPONSIVE STYLES — GENERAL
-    —————————————————————————————— */
+/*  ——————————————————————————————————
+    RESPONSIVE STYLES — GENERAL/MOBILE
+    —————————————————————————————————— */
 
     .offset-left {
-      margin-left: 0;
-      padding-right: 0;
+      margin: auto;
+      text-align: center;
+      padding: 6%;
+
     }
 
     .offset-right {
-      margin-right: 0 !important;
-      padding-left: 0;
+      text-align: center;
+      padding: 6%;
+      margin: auto;
+
     }
 
     .offset-right-q {
-      margin-right: 0;
-      padding-left: 0;
+      margin:auto;
+      padding: 6%;
       width: 100%;
     }
 
     .offset-left-q {
-      margin-left: 0;
-      padding-right: 0;
+      margin:auto;
+      padding: 6%;
       width: 100%;
     }
 /*  ——— RESPONSIVE STYLES — MOBILE */
@@ -145,7 +166,7 @@
 /*  ———————————————————————————————
     RESPONSIVE STYLES — IMAGE WRAPS
     ——————————————————————————————— */
-    @media screen and (min-width: 800px) {
+    @media screen and (min-width: 992px) {
 
         body {
         }
@@ -162,7 +183,7 @@
 
         .offset-right {
           float: right;
-          margin-right: -50%;
+          margin-right: -50% !important;
           padding-left: 30px;
         }
 
@@ -192,5 +213,12 @@
 }
 
 
+
+
+
+.footnotes {
+    column-count: 2 !important;
+    column-gap: 50px;
+}
 
 
