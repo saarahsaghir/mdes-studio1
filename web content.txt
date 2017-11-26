@@ -22,7 +22,6 @@ please indicate which paragraph the images & quotes should go after.
 
 
 Bio Section
-+ Name
 + Bio
 + Links (website, etc)
 + Photo (in blue monotone)
