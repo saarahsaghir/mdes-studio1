@@ -14,7 +14,7 @@ Layout Images (PNG) (in slider)
     about 3600px wide
 
 Essay Text
-+ Images
++ Images / Captions
 + Pull Quotes
 + Citations (on hover)
 
