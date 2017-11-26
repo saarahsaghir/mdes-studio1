@@ -39,6 +39,16 @@
         text-transform: uppercase;
     }
 
+    .heading {
+        text-transform: none;
+    }
+
+    figcaption {
+      line-height: 1.1;
+      font-size: .7rem !important;
+      letter-spacing: .05rem;
+    }
+
     a h5{
     color: #30459c;
     }
@@ -46,7 +56,6 @@
     a h5:hover {
       color: #30459c;
       text-decoration: none;
-      text-decoration-color: none;
       font-style: italic;
     }
 
@@ -74,6 +83,16 @@
 
     .center {
       text-align: center;
+    }
+
+    .footnotes li {
+      display: list-item;
+      color: rgba(26,49,145, .9);
+      list-style-position: inside;
+      padding: 20px 1%;
+      border-bottom: 1.5px solid rgba(26,49,145, .5);
+      line-height: 1.2;
+      letter-spacing: .5px;
     }
 
 /*  ————————————————————————————————
@@ -129,7 +148,6 @@
       text-align: center;
       padding: 6%;
       margin: auto;
-
     }
 
     .offset-right-q {
@@ -142,6 +160,10 @@
       margin:auto;
       padding: 6%;
       width: 100%;
+    }
+
+    .footnotes{
+        background-color: rgba(255,255,255,.5);
     }
 /*  ——— RESPONSIVE STYLES — MOBILE */
     @include media-breakpoint-up(sm) {
@@ -177,21 +199,40 @@
 
         .offset-left {
           float: left;
+          margin-left: -30%;
+          padding-right: 30px;
+          max-width: 50%;
+          padding-bottom: 1%;
+        }
+
+        .offset-left-less {
+          float: left;
           margin-left: -50%;
           padding-right: 30px;
+          max-width: 50%;
+          padding-bottom: 1%;
         }
 
         .offset-right {
           float: right;
           margin-right: -50% !important;
           padding-left: 30px;
+          max-width: 60%;
+          padding-bottom: 1%;
         }
 
+        .small-img {
+            max-width: 50%;
+        }
+
+        .large-img {
+            max-width: 75%;
+        }
         .offset-right-q {
           float: right;
-          margin-right: -30%;
+          margin-right: -50%;
           padding-left: 30px;
-          width: 60%;
+          width: 70%;
         }
 
         .offset-left-q {
@@ -208,6 +249,12 @@
           font-weight: bold;
           text-transform: uppercase;
           font-size: 2.5rem;
+        }
+
+        .subhead {
+            max-width: 60%;
+            margin: auto 0 auto auto;
+            padding: 1% 0;
         }
 
 }

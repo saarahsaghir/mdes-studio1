@@ -4,7 +4,6 @@ Cover Image (PNG): 1800 x 200 px
 + Name / Keyword
 
 
-
 INSIDE CONTENT
 ——————————————
 Heading or Title
@@ -14,11 +13,13 @@ Layout Images (PNG) (in slider)
     about 3600px wide
 
 Essay Text
++ Bold / Italic / Underline (for example: <b>bold text</b> <i>italic text</i> <u>underlined text</u>)
 + Images / Captions
 + Pull Quotes
-+ Citations (on hover)
++ Citations (for example: <sup>5</sup>)
++ Footnotes (un-numbered list)
 
-please indicate which paragraph the images & quotes should go after.
+please indicate which paragraph the images & quotes should go after and whether they are left or right aligned.
 
 
 Bio Section

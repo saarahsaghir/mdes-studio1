@@ -35,7 +35,7 @@
             <br><br><br><br>
             </div>
         </div>
-        <div class="row justify-content-center">
+        <div class="row justify-content-center position-sticky">
             <div class="col-sm-6 col-md-5 col-lg-3 center img-fluid">
                 <img src="logo.png" width="100%" height="auto">
             </div>
@@ -60,7 +60,7 @@
                   <div class="item">
 
 <!--                COVER IMAGE, NAME + LINK (VISIBLE WHEN CLOSED) -->
-                    <a data-toggle="collapse" data-parent="#exampleAccordion" href="#angeline" aria-expanded="false" aria-controls="angeline">
+                    <a class="sticky-top" data-toggle="collapse" data-parent="#exampleAccordion" href="#angeline" aria-expanded="false" aria-controls="angeline">
                         <div id="cover" style="background-image: url(images/angeline/cover.png)"><br><h1 class="white">Angeline Buck / Sustain</h1><br></div>
 <!--                        <div class="ml-5 d-none d-xl-block circle"></div>-->
                     </a>
@@ -180,7 +180,7 @@
                   <div class="item">
 
 <!--                COVER IMAGE, NAME + LINK (VISIBLE WHEN CLOSED) -->
-                    <a data-toggle="collapse" data-parent="#exampleAccordion" href="#carmela" aria-expanded="false" aria-controls="carmela">
+                    <a class="sticky-top" data-toggle="collapse" data-parent="#exampleAccordion" href="#carmela" aria-expanded="false" aria-controls="carmela">
                         <div id="cover" style="background-image: url(images/carmela/cover.png)"><br><h1 class="white">Carmela Cammisuli / Senses</h1><br></div>
 <!--                        <div class="ml-5 d-none d-xl-block circle"></div>-->
                     </a>
@@ -300,7 +300,7 @@
                   <div class="item">
 
 <!--                COVER IMAGE, NAME + LINK (VISIBLE WHEN CLOSED) -->
-                    <a data-toggle="collapse" data-parent="#exampleAccordion" href="#andrea" aria-expanded="false" aria-controls="andrea">
+                    <a class="sticky-top" data-toggle="collapse" data-parent="#exampleAccordion" href="#andrea" aria-expanded="false" aria-controls="andrea">
                         <div id="cover" style="background-image: url(images/andrea/cover.png)"><br><h1 class="white">Andrea Giambelli / Mapping</h1><br></div>
 <!--                        <div class="ml-5 d-none d-xl-block circle"></div>-->
                     </a>
@@ -420,7 +420,7 @@
                   <div class="item">
 
 <!--                COVER IMAGE, NAME + LINK (VISIBLE WHEN CLOSED) -->
-                    <a data-toggle="collapse" data-parent="#exampleAccordion" href="#xi" aria-expanded="false" aria-controls="xi">
+                    <a class="sticky-top" data-toggle="collapse" data-parent="#exampleAccordion" href="#xi" aria-expanded="false" aria-controls="xi">
                         <div id="cover" style="background-image: url(images/xi/cover.png)"><br><h1 class="white">Xi Mo / Happy</h1><br></div>
 <!--                        <div class="ml-5 d-none d-xl-block circle"></div>-->
                     </a>
@@ -541,8 +541,8 @@
                   <div class="item">
 
 <!--                COVER IMAGE, NAME + LINK (VISIBLE WHEN CLOSED) -->
-                    <a data-toggle="collapse" data-parent="#exampleAccordion" href="#saarah" aria-expanded="false" aria-controls="saarah">
-                        <div id="cover" style="background-image: url(images/saarah/cover.png)"><br><h1 class="white">Saarah Saghir / Urban Wildlife</h1><br></div>
+                    <a class="sticky-top" data-toggle="collapse" data-parent="#exampleAccordion" href="#saarah" aria-expanded="false" aria-controls="saarah">
+                        <div id="cover" style="background-image: url(images/saarah/cover.png)"><br> <h1 class="white">Saarah Saghir / Urban Wildlife</h1><br></div>
 <!--                        <div class="ml-5 d-none d-xl-block circle"></div>-->
                     </a>
 
@@ -551,15 +551,18 @@
 
 <!--                    TITLE, BLURB/QUOTE, & IMAGE SLIDER (PRINT LAYOUTS) -->
                         <div class="row justify-content-center">
-                            <div class="col-md-11 col-lg-9">
+                            <div class="col-md-11 col-lg-8 justify-content-center">
                             <br>
-                            <h1>Encountering Nature &amp; Experiencing Wilderness</h1>
-                            <h3 class="center">
+                            <h1 class="mt-2 heading text-left">encountering nature — experiencing wilderness</h1>
+                            <h3 class="subhead">
                              There is something inherently wondrous about the natural world. When coupled with childish curiosity and a bit of imagination, its mysteries transform into marvelous worlds.
                             </h3>
                             <br>
-
+                            </div>
+                        </div>
 <!--                        IMAGE SLIDER FOR FULL LAYOUTS -->
+                        <div class="row justify-content-center">
+                            <div class="col-md-12 col-lg-11 justify-content-center">
                              <div id="saarah-carousel" class="carousel slide " data-ride="carousel">
                               <div class="carousel-inner">
                                 <div class="carousel-item active">
@@ -585,66 +588,62 @@
                         <div class="row justify-content-center">
                             <div class="col-sm-6">
                             <br>
-                            <p>
-                                <br>
-                                <p>There is something inherently wondrous about the natural world. When coupled with childish curiosity and a bit of imagination, its mysteries transform into marvellous worlds.</p>
-
-                                <figure class="figure offset-left">
+                                <figure class="figure offset-right large-img">
                                     <img class="img-fluid" src="images/saarah/image1.png">
-                                    <figcaption class="figure-caption mt-2 text-left">
-                                        Underwater Surprise, Saarah Saghir, digital illustration, 2017
+                                    <figcaption class="figure-caption mt-3 text-left">
+                                        <i>Underwater Surprise</i>, Saarah Saghir, digital illustration, 2017
                                     </figcaption>
                                 </figure>
+<!--                                <p>There is something inherently wondrous about the natural world. When coupled with childish curiosity and a bit of imagination, its mysteries transform into marvellous worlds.</p>-->
 
-                                <p>Like most young children, I’ve had my fair share of outdoor adventures. Sometime in the summer of 1999 there is a little girl in bedazzled overalls examining a glittery trail on the sidewalk, wondering if that snail is really a fairy in disguise (<i>why else would it be shedding fairy dust?</i>). Rocks from the playground transformed into magical gems, and birds flying overhead became important messengers in my imagined stories of the animal world. My curiosity expanded far beyond creating stories, and my parents were ever too happy to indulge me in my quest to figure out how and why nature worked the way it did. I was fascinated by the patterns I found in nature, from snowflakes on the window to the spots on the ladybugs I held. My mother and I would spend long hours asking each other questions about whatever caught our interest in the backyard or the park, and when we had come up with enough theories, we’d head to the library to see what we could learn. Nature and animals are a significant aspect of many children’s books, both fiction and nonfiction, and I am grateful to have grown up with a balanced view of both the scientific and the imagined representations of the natural world.</p>
+                                <p><br><br>Like most young children, I’ve had my fair share of outdoor adventures. Sometime in the summer of 1999 there is a little girl in bedazzled overalls examining a glittery trail on the sidewalk, wondering if that snail is really a fairy in disguise (<i>why else would it be shedding fairy dust?</i>). Rocks from the playground transformed into magical gems, and birds flying overhead became important messengers in my imagined stories of the animal world. My curiosity expanded far beyond creating stories, and my parents were ever too happy to indulge me in my quest to figure out how and why nature worked the way it did.
+                                <figure class="figure offset-left small-img">
+                                    <img class="img-fluid" src="images/saarah/image2.png">
+                                    <figcaption class="figure-caption mt-3 text-left">
+                                        <i>Typographic exploration</i>, Saarah Saghir, digital design, 2017
+                                    </figcaption>
+                                </figure>
+                                I was fascinated by the patterns I found in nature, from snowflakes on the window to the spots on the ladybugs I held. My mother and I would spend long hours asking each other questions about whatever caught our interest in the backyard or the park, and when we had come up with enough theories, we’d head to the library to see what we could learn. Nature and animals are a significant aspect of many children’s books, both fiction and nonfiction, and I am grateful to have grown up with a balanced view of both the scientific and the imagined representations of the natural world.</p>
 
-                                <blockquote class="blockquote text-left offset-right-q">
+                                <blockquote class="blockquote text-left">
                                     <h2 class="mb-2">
                                         Stories of the natural world evoke within us a sense of <i>wildness</i> and of <i>wonder</i>
                                     </h2>
                                 </blockquote>
 
-                                <figure class="figure offset-left">
-                                    <img class="img-fluid" src="images/saarah/image2.png">
-                                    <figcaption class="figure-caption mt-2 text-left">
-                                        Typographic exploration, Saarah Saghir, digital design, 2017
-                                    </figcaption>
-                                </figure>
-
                                 <p>
-                                    Our story, as humans, is the <a href="#" data-toggle="tooltip" title="Strickland, Tessa. 2009. “Stones, Woods and Water: Deep Ecology and Children’s Literature.” IBBYLink, 2009.">“story of our relationship with nature.”
-                                    <sup>1</sup></a>
-                                    While historically, our relationship has become troubled, in recent times it has made a move towards interdependency. Stories, which are fundamental to our human experience, can help make this shift to a balanced view of nature, by evoking within us a sense of <i>wildness</i> and of <i>wonder</i>.2 Many of us are quite removed from nature and have not experienced the true wildness of it — the feeling of something grander, something that exists outside of our control, and yet has its own patterns and orders. I believe this is one reason for the way our society has become indifferent towards nature. Perhaps now that we have become disconnected from it, we no longer realize that we cannot expect the natural world to fit within our human rules and patterns. This awareness begins in childhood, when we are first learning about the world and becoming curious about the way it works.3 Imaginative play, especially within nature, is crucial in developing our perspectives of the world.4 In this way, it helps to <i>environmentally socialize</i> children, which is to teach them about the environment by modelling “positive perceptions, attitudes, and behaviours towards the environment.”5</p>
+                                    Our story, as humans, is the “story of our relationship with nature.”<sup>1</sup>
+                                    While historically, our relationship has become troubled, in recent times it has made a move towards interdependency. Stories, which are fundamental to our human experience, can help make this shift to a balanced view of nature, by evoking within us a sense of <i>wildness</i> and of <i>wonder</i>.<sup>1</sup> Many of us are quite removed from nature and have not experienced the true wildness of it — the feeling of something grander, something that exists outside of our control, and yet has its own patterns and orders. I believe this is one reason for the way our society has become indifferent towards nature. Perhaps now that we have become disconnected from it, we no longer realize that we cannot expect the natural world to fit within our human rules and patterns. This awareness begins in childhood, when we are first learning about the world and becoming curious about the way it works.<sup>3</sup> Imaginative play, especially within nature, is crucial in developing our perspectives of the world.<sup>4</sup> In this way, it helps to <i>environmentally socialize</i> children, which is to teach them about the environment by modelling “positive perceptions, attitudes, and behaviours towards the environment.”<sup>5</sup></p>
 
-                                <figure class="figure offset-right">
+                                <figure class="figure offset-left-less large-img">
                                     <img class="img-fluid" src="images/saarah/image3.png">
-                                    <figcaption class="figure-caption mt-2 text-left">
-                                        Urban Animals, Saarah Saghir, digital illustration, 2017
+                                    <figcaption class="figure-caption mt-5 text-left">
+                                        <i>Urban Animals</i>, Saarah Saghir, digital illustration, 2017
                                     </figcaption>
                                 </figure>
 
-                                <p>Growing up in a small town, I was lucky to have a deep connection with nature throughout the years. My summers were spent hiking the wooded trails near the river, and my autumns were spent running through the leafy undergrowth of the forest. As children, my sister and I would spend hours in the open grassy field behind our house, imagining all sorts of adventures as we crept up to butterflies and birds. Every spring, baby frogs would emerge under the flickering street lights and we would take turns “rescuing” them from cars. And in the winters, at the nature centre I volunteered at, we would turn sap into maple syrup and freeze it in the freshly fallen snow. This “easy relationship,” as Elliott calls it, established the natural world as a “place of bounty, beauty and safety.”6</p>
+                                <p>Growing up in a small town, I was lucky to have a deep connection with nature throughout the years. My summers were spent hiking the wooded trails near the river, and my autumns were spent running through the leafy undergrowth of the forest. As children, my sister and I would spend hours in the open grassy field behind our house, imagining all sorts of adventures as we crept up to butterflies and birds. Every spring, baby frogs would emerge under the flickering street lights and we would take turns “rescuing” them from cars. And in the winters, at the nature centre I volunteered at, we would turn sap into maple syrup and freeze it in the freshly fallen snow. This “easy relationship,” as Elliott calls it, established the natural world as a “place of bounty, beauty and safety.”<sup>6</sup></p>
 
-                                <p>As I grew older, my fascination with nature evolved into an interest in its stewardship and conservation. I realized that these experiences are not always accessible within urban environments. Many developed are “human constructions in which nature is held at bay.”7 The Greater Toronto Area does address this issue quite well in comparison to other cities, as there are green spaces well spread throughout—“Canadians are not afraid of nature, and cities are not garrisons…there is as much of nature in the city as there is out of it.”8 However, as in any city, we are not as immersed in nature. In my undergraduate thesis, I addressed how this lack of immersion creates an atmosphere where even people who are interested in conservation and stewardship are not able to connect to the wildlife around them — we often champion for far-flung animals and causes, not knowing that there is so much to do right at home. My work focused on creating a system to encourage people to foster wildlife in their own backyard or balcony, creating a deeper connection with nature in our daily lives. Cities, after all, exist within nature like the rest of us.</p>
-
-                                <blockquote class="blockquote text-left offset-right-q">
+                                <blockquote class="blockquote offset-right-q text-left">
                                     <h2 class="mb-2">
                                     The magic of nature, especially in our urban landscape, lies in its discovery.
                                     </h2>
                                 </blockquote>
 
-                                <figure class="figure offset-right">
-                                    <img class="img-fluid" src="images/sarah/image4.png">
-                                    <figcaption class="figure-caption mt-2 text-left">
-                                        “Little Red Riding Hood”, Saarah Saghir, collage, 2017
+                                <p>As I grew older, my fascination with nature evolved into an interest in its stewardship and conservation. I realized that these experiences are not always accessible within urban environments. Many developed are “human constructions in which nature is held at bay.”<sup>7</sup> The Greater Toronto Area does address this issue quite well in comparison to other cities, as there are green spaces well spread throughout—“Canadians are not afraid of nature, and cities are not garrisons…there is as much of nature in the city as there is out of it.”<sup>8</sup> However, as in any city, we are not as immersed in nature. In my undergraduate thesis, I addressed how this lack of immersion creates an atmosphere where even people who are interested in conservation and stewardship are not able to connect to the wildlife around them — we often champion for far-flung animals and causes, not knowing that there is so much to do right at home. My work focused on creating a system to encourage people to foster wildlife in their own backyard or balcony, creating a deeper connection with nature in our daily lives. Cities, after all, exist within nature like the rest of us.</p>
+
+                                <figure class="figure offset-right small-img">
+                                    <img class="img-fluid" src="images/saarah/image4.png">
+                                    <figcaption class="figure-caption mt-3 text-left">
+                                        <i>“Little Red Riding Hood”</i>, Saarah Saghir, collage, 2017
                                     </figcaption>
                                 </figure>
 
-                                <p>The magic of nature, especially in our urban landscape, lies in its discovery. Like in Frances Hodgson Burnett’s classic <i>The Secret Garden</i>, discovering nature, especially as a child, is like holding a key that unlocks your imagination. Elliott argues that <i>The Secret Garden</i> could be used to create “a model for discovery within, and reclamation of, the urban environment.”9 The unexpected ways in which nature climbs into our city lives compel us to question, investigate, and form our own stories. This spark of curiosity and imagination is essential to foster a positive relationship with nature, and instill a sense of responsibility and the importance of environmental stewardship.</p>
+                                <p>The magic of nature, especially in our urban landscape, lies in its discovery. Like in Frances Hodgson Burnett’s classic <i>The Secret Garden</i>, discovering nature, especially as a child, is like holding a key that unlocks your imagination. Elliott argues that <i>The Secret Garden</i> could be used to create “a model for discovery within, and reclamation of, the urban environment.”<sup>9</sup> The unexpected ways in which nature climbs into our city lives compel us to question, investigate, and form our own stories. This spark of curiosity and imagination is essential to foster a positive relationship with nature, and instill a sense of responsibility and the importance of environmental stewardship.</p>
 
                                 <figure class="figure offset-left">
-                                    <img class="img-fluid" src="images/sarah/image5.png">
-                                    <figcaption class="figure-caption mt-2 text-left">
+                                    <img class="img-fluid" src="images/saarah/image5.png">
+                                    <figcaption class="figure-caption mt-3 text-left">
                                         Star Thief, Saarah Saghir, digital illustration, 2017
                                     </figcaption>
                                 </figure>
@@ -654,52 +653,52 @@
                                 <p>The visual stories of nature I explored in my work this term revolved around the ways in which humans, and our built environment, interact with the natural world and its environment. Manmade forms, like geometric shapes and letterforms, intersect with the natural forms and organic shapes of wings and trees. I especially found myself drawn towards branching patterns, like the veins of a leaf or on a dragonfly wing, which look both organic and geometric. Typographically, I experimented with molding the uniform and geometric letters into flowing, organic forms.</p>
 
                                 <figure class="figure offset-right">
-                                    <img class="img-fluid" src="images/sarah/image6.png">
-                                    <figcaption class="figure-caption mt-2 text-left">
+                                    <img class="img-fluid" src="images/saarah/image6.png">
+                                    <figcaption class="figure-caption mt-5 text-left">
                                         Typographic exploration, Saarah Saghir, digital design, 2017
                                     </figcaption>
                                 </figure>
 
-                                <p>The best way to examine our relationship with the natural world is to examine the stories we tell of our encounters with it, and the way nature and animals are constructed within these stories.10 These stories may be in the form of urban legends, or new scientific discoveries. Historically, nature and wildlife have been depicted in folklore, fairytales, myths, and legends. These are often positioned as children’s stories, but they are quite telling of our human experience and cultures as a whole. Within illustrated books, the visual design of characters, places, and typography play a significant role in our perception of the natural world and the way we use it to “understand, add meaning to, and cope with our lives.”11 Even as we have outgrown the forest villages of the past, our new modern cities aren’t as far from nature and wildlife as we would like to think. My final illustrations explore the kinds of stories that could be imagined in the modern world, at the intersection of city life and wild life.</p>
+                                <p>The best way to examine our relationship with the natural world is to examine the stories we tell of our encounters with it, and the way nature and animals are constructed within these stories.<sup>10</sup> These stories may be in the form of urban legends, or new scientific discoveries. Historically, nature and wildlife have been depicted in folklore, fairytales, myths, and legends. These are often positioned as children’s stories, but they are quite telling of our human experience and cultures as a whole. Within illustrated books, the visual design of characters, places, and typography play a significant role in our perception of the natural world and the way we use it to “understand, add meaning to, and cope with our lives.”<sup>11</sup> Even as we have outgrown the forest villages of the past, our new modern cities aren’t as far from nature and wildlife as we would like to think. My final illustrations explore the kinds of stories that could be imagined in the modern world, at the intersection of city life and wild life.</p>
 
                                   <a class="btn btn-link" data-toggle="collapse" href="#saarah-footnotes" aria-expanded="false" aria-controls="saarah-footnotes">
                                     <h5>Sources</h5>
                                   </a>
                                 <div class="collapse" id="saarah-footnotes">
-                                <div class="card card-body">
+                                <div class="card card-body footnotes">
                                 <small>
-                                <ol class="list-group list-group-flush footnotes">
-                                    <li class="list-group-item">
+                                <ol class="list-group list-group-flush">
+                                    <li class="">
                                         Tessa Strickland, “Stones, Woods and Water: Deep Ecology and Children’s Literature.” <i>IBBYLink</i>. (Winchester: International Board for Books for Young People, 2009), 6.
                                     </li>
-                                    <li class="list-group-item">
+                                    <li class="">
                                         Tessa Strickland, “Stones, Woods and Water,” 6.
                                     </li>
-                                    <li class="list-group-item">
+                                    <li class="">
                                         Tessa Strickland, “Stones, Woods and Water,” 7.
                                     </li>
-                                    <li class="list-group-item">
+                                    <li class="">
                                         Tessa Strickland, “Stones, Woods and Water,” 7.
                                     </li>
-                                    <li class="list-group-item">
+                                    <li class="">
                                         Becky Boudreaux, “The Representation of the Environment in Children’s Literature.” (University of New Orleans, 2006), 3.
                                     </li>
-                                    <li class="list-group-item">
+                                    <li class="">
                                         Zetta Elliott, “Telling Secrets in the City: Narrative Possibility and the Urban Environment.” <i>IBBYLink</i>. (Winchester: International Board for Books for Young People, 2009), 22.
                                     </li>
-                                    <li class="list-group-item">
+                                    <li class="">
                                         Trish Glazebrook, “Ecofeminist ‘Cityzenry,’” in <i>The Natural City: Re-Envisioning the Built Environment</i> (Toronto: University of Toronto Press, 2012), 179.
                                     </li>
-                                    <li class="list-group-item">
+                                    <li class="">
                                         Wayne Grady, <i>Toronto the Wild : Field Notes of an Urban Naturalist</i> (Toronto: Macfarlane, Walter & Ross, 1995), 3.
                                     </li>
-                                    <li class="list-group-item">
+                                    <li class="">
                                         Elliott, “Telling Secrets in the City,” 22.
                                     </li>
-                                    <li class="list-group-item">
+                                    <li class="">
                                         Kenneth Kidd, review of <i>Picturing the Wolf in Children’s Literature</i>, by Debra Mitts-Smith, <i>Children’s Literature Association Quarterly</i> 36, no. 2 (Summer 2011): 18.
                                     </li>
-                                    <li class="list-group-item">
+                                    <li class="">
                                         Kenneth Kidd, review of “Picturing the Wolf in Children’s Literature,” 19.
                                     </li>
                                 </ol>
@@ -744,7 +743,7 @@
                   <div class="item">
 
 <!--                COVER IMAGE, NAME + LINK (VISIBLE WHEN CLOSED) -->
-                    <a data-toggle="collapse" data-parent="#exampleAccordion" href="#aala" aria-expanded="false" aria-controls="aala">
+                    <a class="sticky-top" data-toggle="collapse" data-parent="#exampleAccordion" href="#aala" aria-expanded="false" aria-controls="aala">
                         <div id="cover" style="background-image: url(images/aala/cover.png)"><br><h1 class="white">Aala Sharfi / Meaning</h1><br></div>
 <!--                        <div class="ml-5 d-none d-xl-block circle"></div>-->
                     </a>
@@ -866,7 +865,7 @@
                   <div class="item">
 
 <!--                COVER IMAGE, NAME + LINK (VISIBLE WHEN CLOSED) -->
-                    <a data-toggle="collapse" data-parent="#exampleAccordion" href="#egor" aria-expanded="false" aria-controls="egor">
+                    <a class="sticky-top" data-toggle="collapse" data-parent="#exampleAccordion" href="#egor" aria-expanded="false" aria-controls="egor">
                         <div id="cover" style="background-image: url(images/egor/cover.png)"><br><h1 class="white">Egor Sokolov / Desire</h1><br></div>
 <!--                        <div class="ml-5 d-none d-xl-block circle"></div>-->
                     </a>
@@ -989,7 +988,7 @@
                   <div class="item">
 
 <!--                COVER IMAGE, NAME + LINK (VISIBLE WHEN CLOSED) -->
-                    <a data-toggle="collapse" data-parent="#exampleAccordion" href="#frank" aria-expanded="false" aria-controls="frank">
+                    <a class="sticky-top" data-toggle="collapse" data-parent="#exampleAccordion" href="#frank" aria-expanded="false" aria-controls="frank">
                         <div id="cover" style="background-image: url(images/frank/cover.png)"><br><h1 class="white">Frank Zhang / Equality</h1><br></div>
 <!--                        <div class="ml-5 d-none d-xl-block circle"></div>-->
                     </a>
@@ -1111,7 +1110,7 @@
                   <div class="item">
 
 <!--                COVER IMAGE, NAME + LINK (VISIBLE WHEN CLOSED) -->
-                    <a data-toggle="collapse" data-parent="#exampleAccordion" href="#sarah" aria-expanded="false" aria-controls="sarah">
+                    <a class="sticky-top" data-toggle="collapse" data-parent="#exampleAccordion" href="#sarah" aria-expanded="false" aria-controls="sarah">
                         <div id="cover" style="background-image: url(images/sarah/cover.png)"><br><h1 class="white">Sarah Zou / Reconcile</h1><br></div>
 <!--                        <div class="ml-5 d-none d-xl-block circle"></div>-->
                     </a>

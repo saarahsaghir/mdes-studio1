@@ -19,14 +19,14 @@ Stories of the natural world evoke within us a sense of <i>wildness</i> and of <
 IMAGE 2 (left)
 CAPTION: Typographic exploration, Saarah Saghir, digital design, 2017
 
-Our story, as humans, is the “story of our relationship with nature.”1 While historically, our relationship has become troubled, in recent times it has made a move towards interdependency. Stories, which are fundamental to our human experience, can help make this shift to a balanced view of nature, by evoking within us a sense of <i>wildness</i> and of <i>wonder</i>.2 Many of us are quite removed from nature and have not experienced the true wildness of it — the feeling of something grander, something that exists outside of our control, and yet has its own patterns and orders. I believe this is one reason for the way our society has become indifferent towards nature. Perhaps now that we have become disconnected from it, we no longer realize that we cannot expect the natural world to fit within our human rules and patterns. This awareness begins in childhood, when we are first learning about the world and becoming curious about the way it works.3 Imaginative play, especially within nature, is crucial in developing our perspectives of the world.4 In this way, it helps to <i>environmentally socialize</i> children, which is to teach them about the environment by modelling “positive perceptions, attitudes, and behaviours towards the environment.”5
+Our story, as humans, is the “story of our relationship with nature.”<sup>1</sup> While historically, our relationship has become troubled, in recent times it has made a move towards interdependency. Stories, which are fundamental to our human experience, can help make this shift to a balanced view of nature, by evoking within us a sense of <i>wildness</i> and of <i>wonder</i>.<sup>2</sup> Many of us are quite removed from nature and have not experienced the true wildness of it — the feeling of something grander, something that exists outside of our control, and yet has its own patterns and orders. I believe this is one reason for the way our society has become indifferent towards nature. Perhaps now that we have become disconnected from it, we no longer realize that we cannot expect the natural world to fit within our human rules and patterns. This awareness begins in childhood, when we are first learning about the world and becoming curious about the way it works.<sup>3</sup> Imaginative play, especially within nature, is crucial in developing our perspectives of the world.<sup>4</sup> In this way, it helps to <i>environmentally socialize</i> children, which is to teach them about the environment by modelling “positive perceptions, attitudes, and behaviours towards the environment.”<sup>5</sup>
 
 IMAGE 3 (right)
 CAPTION: Urban Animals, Saarah Saghir, digital illustration, 2017
 
-Growing up in a small town, I was lucky to have a deep connection with nature throughout the years. My summers were spent hiking the wooded trails near the river, and my autumns were spent running through the leafy undergrowth of the forest. As children, my sister and I would spend hours in the open grassy field behind our house, imagining all sorts of adventures as we crept up to butterflies and birds. Every spring, baby frogs would emerge under the flickering street lights and we would take turns “rescuing” them from cars. And in the winters, at the nature centre I volunteered at, we would turn sap into maple syrup and freeze it in the freshly fallen snow. This “easy relationship,” as Elliott calls it, established the natural world as a “place of bounty, beauty and safety.”6
+Growing up in a small town, I was lucky to have a deep connection with nature throughout the years. My summers were spent hiking the wooded trails near the river, and my autumns were spent running through the leafy undergrowth of the forest. As children, my sister and I would spend hours in the open grassy field behind our house, imagining all sorts of adventures as we crept up to butterflies and birds. Every spring, baby frogs would emerge under the flickering street lights and we would take turns “rescuing” them from cars. And in the winters, at the nature centre I volunteered at, we would turn sap into maple syrup and freeze it in the freshly fallen snow. This “easy relationship,” as Elliott calls it, established the natural world as a “place of bounty, beauty and safety.”<sup>6</sup>
 
-As I grew older, my fascination with nature evolved into an interest in its stewardship and conservation. I realized that these experiences are not always accessible within urban environments. Many developed are “human constructions in which nature is held at bay.”7 The Greater Toronto Area does address this issue quite well in comparison to other cities, as there are green spaces well spread throughout—“Canadians are not afraid of nature, and cities are not garrisons…there is as much of nature in the city as there is out of it.”8 However, as in any city, we are not as immersed in nature. In my undergraduate thesis, I addressed how this lack of immersion creates an atmosphere where even people who are interested in conservation and stewardship are not able to connect to the wildlife around them — we often champion for far-flung animals and causes, not knowing that there is so much to do right at home. My work focused on creating a system to encourage people to foster wildlife in their own backyard or balcony, creating a deeper connection with nature in our daily lives. Cities, after all, exist within nature like the rest of us.
+As I grew older, my fascination with nature evolved into an interest in its stewardship and conservation. I realized that these experiences are not always accessible within urban environments. Many developed are “human constructions in which nature is held at bay.”<sup>7</sup> The Greater Toronto Area does address this issue quite well in comparison to other cities, as there are green spaces well spread throughout—“Canadians are not afraid of nature, and cities are not garrisons…there is as much of nature in the city as there is out of it.”<sup>8</sup> However, as in any city, we are not as immersed in nature. In my undergraduate thesis, I addressed how this lack of immersion creates an atmosphere where even people who are interested in conservation and stewardship are not able to connect to the wildlife around them — we often champion for far-flung animals and causes, not knowing that there is so much to do right at home. My work focused on creating a system to encourage people to foster wildlife in their own backyard or balcony, creating a deeper connection with nature in our daily lives. Cities, after all, exist within nature like the rest of us.
 
 QUOTE (left)
 The magic of nature, especially in our urban landscape, lies in its discovery.
@@ -34,7 +34,7 @@ The magic of nature, especially in our urban landscape, lies in its discovery.
 IMAGE 4 (right)
 CAPTION: “Little Red Riding Hood”, Saarah Saghir, collage, 2017
 
-The magic of nature, especially in our urban landscape, lies in its discovery. Like in Frances Hodgson Burnett’s classic <i>The Secret Garden</i>, discovering nature, especially as a child, is like holding a key that unlocks your imagination. Elliott argues that <i>The Secret Garden</i> could be used to create “a model for discovery within, and reclamation of, the urban environment.”9 The unexpected ways in which nature climbs into our city lives compel us to question, investigate, and form our own stories. This spark of curiosity and imagination is essential to foster a positive relationship with nature, and instill a sense of responsibility and the importance of environmental stewardship.
+The magic of nature, especially in our urban landscape, lies in its discovery. Like in Frances Hodgson Burnett’s classic <i>The Secret Garden</i>, discovering nature, especially as a child, is like holding a key that unlocks your imagination. Elliott argues that <i>The Secret Garden</i> could be used to create “a model for discovery within, and reclamation of, the urban environment.”<sup>9</sup> The unexpected ways in which nature climbs into our city lives compel us to question, investigate, and form our own stories. This spark of curiosity and imagination is essential to foster a positive relationship with nature, and instill a sense of responsibility and the importance of environmental stewardship.
 
 IMAGE 5 (left)
 CAPTION: Star Thief, Saarah Saghir, digital illustration, 2017
@@ -46,21 +46,30 @@ The visual stories of nature I explored in my work this term revolved around the
 IMAGE 6 (right)
 CAPTION: Typographic exploration, Saarah Saghir, digital design, 2017
 
-The best way to examine our relationship with the natural world is to examine the stories we tell of our encounters with it, and the way nature and animals are constructed within these stories.10 These stories may be in the form of urban legends, or new scientific discoveries. Historically, nature and wildlife have been depicted in folklore, fairytales, myths, and legends. These are often positioned as children’s stories, but they are quite telling of our human experience and cultures as a whole. Within illustrated books, the visual design of characters, places, and typography play a significant role in our perception of the natural world and the way we use it to “understand, add meaning to, and cope with our lives.”11 Even as we have outgrown the forest villages of the past, our new modern cities aren’t as far from nature and wildlife as we would like to think. My final illustrations explore the kinds of stories that could be imagined in the modern world, at the intersection of city life and wild life.
+The best way to examine our relationship with the natural world is to examine the stories we tell of our encounters with it, and the way nature and animals are constructed within these stories.<sup>10</sup> These stories may be in the form of urban legends, or new scientific discoveries. Historically, nature and wildlife have been depicted in folklore, fairytales, myths, and legends. These are often positioned as children’s stories, but they are quite telling of our human experience and cultures as a whole. Within illustrated books, the visual design of characters, places, and typography play a significant role in our perception of the natural world and the way we use it to “understand, add meaning to, and cope with our lives.”<sup>11</sup> Even as we have outgrown the forest villages of the past, our new modern cities aren’t as far from nature and wildlife as we would like to think. My final illustrations explore the kinds of stories that could be imagined in the modern world, at the intersection of city life and wild life.
 
-————————
+FOOTNOTES:
+Tessa Strickland, “Stones, Woods and Water: Deep Ecology and Children’s Literature.” <i>IBBYLink</i>. (Winchester: International Board for Books for Young People, 2009), 6.
 
-1. Tessa Strickland, “Stones, Woods and Water: Deep Ecology and Children’s Literature.” <i>IBBYLink</i>. (Winchester: International Board for Books for Young People, 2009), 6.
-2. Tessa Strickland, “Stones, Woods and Water: Deep Ecology and Children’s Literature.” <i>IBBYLink</i>. (Winchester: International Board for Books for Young People, 2009), 6.
-3. Tessa Strickland, “Stones, Woods and Water: Deep Ecology and Children’s Literature.” <i>IBBYLink</i>. (Winchester: International Board for Books for Young People, 2009), 7.
-4. Tessa Strickland, “Stones, Woods and Water: Deep Ecology and Children’s Literature.” <i>IBBYLink</i>. (Winchester: International Board for Books for Young People, 2009), 7.
-5. Becky Boudreaux, “The Representation of the Environment in Children’s Literature.” (University of New Orleans, 2006), 3.
-6. Zetta Elliott, “Telling Secrets in the City: Narrative Possibility and the Urban Environment.” <i>IBBYLink</i>. (Winchester: International Board for Books for Young People, 2009), 22.
-7. Trish Glazebrook, “Ecofeminist ‘Cityzenry,’” in <i>The Natural City: Re-Envisioning the Built Environment</i> (Toronto: University of Toronto Press, 2012), 179.
-8. Wayne Grady, <i>Toronto the Wild : Field Notes of an Urban Naturalist</i> (Toronto: Macfarlane, Walter & Ross, 1995), 3.
-9. Elliott, “Telling Secrets in the City,” 22.
-10. Kenneth Kidd, review of <i>Picturing the Wolf in Children’s Literature</i>, by Debra Mitts-Smith, <i>Children’s Literature Association Quarterly</i> 36, no. 2 (Summer 2011): 18.
-11. Kenneth Kidd, review of <i>Picturing the Wolf in Children’s Literature</i>, by Debra Mitts-Smith, <i>Children’s Literature Association Quarterly</i> 36, no. 2 (Summer 2011): 19.
+Tessa Strickland, “Stones, Woods and Water,” 6.
+
+Tessa Strickland, “Stones, Woods and Water,” 7.
+
+Tessa Strickland, “Stones, Woods and Water,” 7.
+
+Becky Boudreaux, “The Representation of the Environment in Children’s Literature.” (University of New Orleans, 2006), 3.
+
+Zetta Elliott, “Telling Secrets in the City: Narrative Possibility and the Urban Environment.” <i>IBBYLink</i>. (Winchester: International Board for Books for Young People, 2009), 22.
+
+Trish Glazebrook, “Ecofeminist ‘Cityzenry,’” in <i>The Natural City: Re-Envisioning the Built Environment</i> (Toronto: University of Toronto Press, 2012), 179.
+
+Wayne Grady, <i>Toronto the Wild : Field Notes of an Urban Naturalist</i> (Toronto: Macfarlane, Walter & Ross, 1995), 3.
+
+Elliott, “Telling Secrets in the City,” 22.
+
+Kenneth Kidd, review of <i>Picturing the Wolf in Children’s Literature</i>, by Debra Mitts-Smith, <i>Children’s Literature Association Quarterly</i> 36, no. 2 (Summer 2011): 18.
+
+Kenneth Kidd, review of “Picturing the Wolf in Children’s Literature,” 19.
 
 
 
