@@ -264,7 +264,10 @@
         FOOTER
     ————————————————————  */
 
-.footer .navbar-light, .footer .bg-light {
-    background-color: #30459c;
+.footer {
+    background-color: #30459c !important;
+    width: auto;
+    display: block;
+    padding: 1% 0;
 }
 
