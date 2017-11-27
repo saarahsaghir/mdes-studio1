@@ -260,12 +260,11 @@
 }
 
 
+/*  ————————————————————
+        FOOTER
+    ————————————————————  */
 
-
-
-.footnotes {
-    column-count: 2 !important;
-    column-gap: 50px;
+.footer .navbar-light, .footer .bg-light {
+    background-color: #30459c;
 }
-
 
