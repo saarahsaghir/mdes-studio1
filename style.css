@@ -271,3 +271,7 @@
     padding: 1% 0;
 }
 
+
+.sticky-top1 .js-is-sticky{
+    border: 20px red solid;
+}
