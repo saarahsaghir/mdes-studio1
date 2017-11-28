@@ -252,8 +252,8 @@
         }
 
         .subhead {
-            max-width: 60%;
-            margin: auto 0 auto auto;
+            max-width: 70%;
+            margin: auto auto auto 5%;
             padding: 1% 0;
         }
 
@@ -269,4 +269,21 @@
     width: auto;
     display: block;
     padding: 1% 0;
+}
+
+
+.heading {
+    text-transform: lowercase;
+    overflow: hidden;
+}
+
+.heading:after {
+    content:"";
+    display: inline-block;
+    height: 0.6em;
+    vertical-align: bottom;
+    width: 40%;
+    margin-right: -100%;
+    margin-left: 2%;
+    border-top: 6px solid #30459c;
 }
