@@ -1,0 +1,49 @@
+VISIBLE CONTENT
+———————————————
+Cover Image (PNG): 1800 x 200 px
++ Name / Keyword
+
+
+INSIDE CONTENT
+——————————————
+Heading or Title
+
+Equality
+
++ Subheading
+
+Layout Images (PNG) (in slider)
+    about 3600px wide
+
+Essay Text
+
+<b>We are in a world of individualization and collaboration. Design is not just everyday practice, but a way of living. </b>
+
+Surface is what immediately brings the visual attention of a user to design. In modernity, surface is often a smooth, slick and flat plane that represents the ideology of rationality and order. As form and function are the top priorities in modern design, the emotional aspect of design is intentionally or unintentionally void. The surface becomes a blank canvas, a minimalist territory that leaves so much space to create, not just from the perspective of visual aesthetics and individual presentation, but also a space to connect design and users in the realm of emotion. The modernist may argue that surface design is an ornament or decoration that does not serve one’s need and functionality. However, at present, the overwhelming material world does not given our souls satisfaction. Our affection for objects has shifted greatly in favour of our emotional needs and comfort. A sense of belonging, self-esteem, fulfillment and happiness is what we really desire in design. Maslow's Hierarchy of Needs1  in psychology, he used the terms "physiological," "safety," "belonging" , "love," "esteem," "self-actualization," and "self-transcendence" to describe the pattern that human motivations generally move through.2  This theory has been applied to design with transformed terminology: functionality, reliability, usability, pleasure, and meaning. The top two levels of this pyramid structure are combined with emotion, the functionality and usability stay at the base level of human needs. The users’ first contact with surface is the visual language of the design presentation: color, shape, texture, pattern, and also the structural shape of the surface.Surface design is an extension of rhetorical visual elements that affect the users’ visual senses. The design composition creates a visual language that connects viewer’s attention and interest to the design. It is the visual equivalent of starting with a simple greeting or an introduction. This contact creates an initial interest in an exchange of information that leads to a deeper understanding. Similarly, surface design functions as an introduction to the entire object, creating a visual communication and an emotional connection to the viewers.3To users, surface design is an introduction, a visual communication through the eyes to the heart, an affect of an emotional journey from unconsciousness to consciousness. For designers, surface design is an opportunity to express the designer’s passion into a visual representation. It is a process to connect the designer’s idea, belief and passions to users through visual expression.So the surface design provides a large space for the designer and users to communicate in this realm. If we see the surface itself is a media space. Designers traditionally use this space to create meaning and communicate with users visually. However, while users have immediate reactions to the surface design, designers need relatively longer time to receive feedback from the users. Semiotically, the graphic message can also be interpreted differently in different contexts. Thus, although the designer has control over the design, the designer has no way to control the effectiveness of the design and how users reflect the design emotionally. So, the reality is, relying on the designer’s authority to provide the emotional needs of users in design is unpredictable. If we consider surface design in the concept of post-structuralism,4 in the context of linguistics, users can choose how they construct and combine words in different ways to express their individuality. If we adopt this concept in design, can we use surface as a canvas for users to express themselves and communicate with designs? If so, how can design provide users the freedom but also give designers to the ability to control the spirit of the design? How can surface design create a visual conversation that invites the users to collaborate in the design process? How can surface design create opportunities for users to express their individual sense? These questions lead to the exploration of the theory of customization in surface design. In my 15 years of commercial art practice as an airbrush artist and a custom designer, I have created many  “one of a kind design” and “custom experience” for users in all types of surfaces. No matter the design is a high-end custom painting on a sports-car, or it is a simple everyday object such as a T-shirt design. My job is closely working together with the user, to help them to express their uniqueness through the design process. Surface design is always the first priority for my customers to claim their individuality and self-expression.   The ability to customize a design with personal experience is rapidly increasing with today’s technology. From desktop publishing to CNC; laser technology, online media and social platform. Users can have many choices to design and product personalized design with high customization, in both tangible and digital forms. Surface design today also needs to adopt his design concept to provide users a platform for customization. Designers can use the surface as a design platform to collaborate with users,  designing tools and method for users to create their own customizable designs on different surfaces with the integrated DIY process. With customizable surfaces, users can express their emotion freely with provided forms and guidelines, which is the mainframe created in by designers. This collaboration in surface customization process can build a bridge between the material needs to the emotional aesthetic of the users, it also can create a prolonged visual conversation between designer and users.Overall, surface design customization is user-centric: Designers collaborate with users to create designs individually. In this collaborative design method, both designer and user have the equal opportunity to make decisions on material needs and emotional needs. A democratic design process is a fundamental concept in this customizable design process, which may apply to other design areas.More importantly, in a social context, the equality in design authority is achieved through this design practice, it can inspire users to explore their individual creative power and social participation.Modernism’s ideology of “form follows function” avoids the surface design largely. The rational structures and clean, crisp and smooth surfaces reject the ornament and decoration of the surface design. In a way that it avoids the irrational feeling from our outside consciousness to the hidden emotion deep inside of us. The naked body and smooth skin of the modern surface give us a sense of order and coldness. Surface design is just the layer of clothing we need to warm our bodies and satisfy the need for our emotional comfort. After all, it is my belief that the purpose of design is for people, and the spirit of design is to provide people the true happiness.
++ Bold / Italic / Underline (for example: <b>bold text</b> <i>italic text</i> <u>underlined text</u>)
++ Images / Captions
+Image 1 : experimental typography DIY, Frank Zhang. Illustrator graphic.
+Image 2. Transparency surface design, Frank Zhang, Airbrush painting on plastic cups.
+Image 3. Customizable sculpture model, Frank Zhang, Laser cut plywood, paper and acetate 
+Image 4. Customizable Future model, Frank Zhang, laser cut cardboard.
++ Pull Quotes
++ Citations (for example: <sup>5</sup>)
++ Footnotes (un-numbered list)
+
+Maslow, A.H. (1943). "A theory of human motivation". Psychological Review. 50 (4): 370–96. M., Wills, Evelyn. Theoretical basis for nursing. ISBN 9781451190311. OCLC 857664345.Ruston, Daniel.  “Design for emotion”. Google Design. https://medium.com/google-design/design-for-emotion-7ba0cf40e05b
+Bensmaïa, Réda Poststructuralism, article published in Kritzman, Lawrence (ed.) The Columbia History of Twentieth-Century French Thought, Columbia University Press, 2005, pp.92-93
+
+please indicate which paragraph the images & quotes should go after and whether they are left or right aligned.
+
+Image 1 - 1st paragraph right.
+Image 2 - paragraph 4.  left
+Image 3 - paragraph 7.  Left
+Image 4 - paragraph 8.  right.
+Bio Section
+
++ Bio
+
+Frank is a working airbrush artist and custom surface designer. He graduated from OCAD University in 2001 as an illustrator. He has been working as a commercial airbrush artist since 1999. He uses airbrush as an alternative tool to provide the custom design solution in today’s mass production, digital-based design environment. He is currently enrolled in the Master of Design program at York University. His goal is to expand his knowledge in conceptual thinking, theorizing practical experience in the fast-changing design world, and to discover his role as an artist and designer in the social and cultural context. 
+
++ Links www.airbrushing4u.com
++ Photo (in blue monotone)

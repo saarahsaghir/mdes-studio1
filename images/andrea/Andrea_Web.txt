@@ -1,0 +1,102 @@
+VISIBLE CONTENT
+———————————————
+Cover Image (PNG): 1800 x 200 px
++ Andrea Giambelli / Mapping
+
+
+INSIDE CONTENT
+——————————————
+
+HEADING: 
+Map-Making to Understand the World
+
+ESSAY: 
+
+My educational and professional experience in architecture absolutely shaped the way I think and act through my design process, but I have always looked at architecture without the actual ambition of designing buildings. Rather, I’ve been fascinated by architecture – and its fundamental language, representation – as a form of visualization, that could be objective or imaginative, honest or exaggerated, depicting the built environment or the idea for a future project. What drew me to architecture was, at the deepest level, an interest towards drawing as a form of knowledge: a methodology that could be applied to any scale, from interior design to the urban environment. The strong passion I developed for graphic design made me decide to shift my focus from architecture, and after many explorations I realized that the disciplines of information design and data visualization deeply resonated with my way of thinking about – and understanding – concepts. 
+
+IMAGE 1 (left) Paula Scher, <i>U.S. Counties and ZIP Codes</i>, acrylic on hand-pulledsilkscreen, 2015. 
+
+Thus, I started the program determined to learn more about these topics, but without a clear direction for my research project. Studio classes, seminars and readings in the program have been critical in helping me reflect about my topics of interest, and I decided to further incorporate them in my design work, investigating them from the point of view of information design. This very free exploration brought me to what I think is a very important understanding about myself. I have been drawn to maps since I was a child, studying them, drawing on them and collecting them up to this day, but for some reason I had never thought about this as something that I could somehow incorporate into my practice. I quickly realized that most of the works I had developed since the start of the MDES program followed a common thread: they were – of reflected upon – acts of map-making. I am convinced that this reflection on my design work allowed me to identify a valuable theoretical background to support the future steps in my research. The instinct to explore and understand the world around us by mapping is, quoting writer and curator Katharine Harmon, <i>“like our opposable thumbs, […] part of what makes us human.”</i><sup>1</sup> I believe that the strive to visualize information responds to one of the most important challenges for designers: we have the responsibility to raise awareness on what is going on in the world, whether it is a massive change, an urgent problem or an innovation opportunity – because spreading knowledge is the first step towards change. 
+
+IMAGE 2 (right) <i>Bedolina Map</i>, Unknown Author, engraved rock, late Bronze Age. 
+
+SUBHEAD: 
+Mapping the urban landscape
+
+ESSAY: 
+I’m interested in investigating the interaction between graphic design and space, and how our perception of space is mediated by the visualizations we produce to represent it – mapping being just one of many possible methodologies. The work of artists such as Barbara Kruger<sup>2</sup>, or of practices like 2x4<sup>3</sup> really inspire me in reflecting about how graphic design can activate, transform space, and open it to new meanings. I’m drawn to explore these subjects in relation to the space of the city, seen as a materialization of social, economical, political processes. Today, data regarding these issues are more abundant and easier to collect than ever: being inspired by the work of designers such as David McCandless<sup>4</sup>, Nicholas Felton<sup>5</sup>, Jer Thorp<sup>6</sup>, I plan to expand my knowledge about the basic concepts of data science and to explore the ways it can interact with graphic design. Other disciplines I want to look into regarding the interaction between space and design are anamorphism, augmented reality and spatial media: I think they all offer opportunities for an interventions of design on the urban environment, to generate, citing Michael Rock (among the founders of 2x4), a <i>“hyperlinking to the landscape.”</i><sup>7</sup>
+
+IMAGE 3 (right) <i>Personal Geography I</i> (detail), Milan map superimposed over Toronto map. Laser and risograph printing on newsprint. 
+
+SUBHEAD: 
+<i>Questions</i>
+
+ESSAY: 
+<i>How can design and data science help urban planners, developers, architects in designing better, more sustainable cities? How can design help people be more aware of the cultural, historical and intangible features of the city they live in?How can design empower citizens, increasing their involvement in the dynamics of urban politics?</i>
+
+IMAGE 4 (left) <i>Personal Geography II</i>, Toronto tourist map, scratched black pastel. 
+
+SUBHEAD: 
+
+Mapping global changes
+
+ESSAY: 
+
+During our group visit to the EDIT exhibition</i><sup>8</sup> in Toronto, I was really impressed by a work of art titled <i>SOS (Save Our Souls) Shelter</i>, by the 16-year-old Greek artist Achilleas Souras: a shelter similar to a small igloo completely made out of life vests left on the Mediterranean beaches by refugees escaping from their countries. The recent migrant crisis is an issue that I feel particularly close because of the deep involvement of my native country in it, resulting on one hand in great generosity from rescuers and citizens, but on the other in an unprecedented wave of intolerance and hate. What I’m really interested in is how the information about this very complex issue is almost always presented in an over-simplified manner in mass media, and how in their fast diffusion on the web they get distorted – if not fabricated from scratch – fomenting ignorance and violence. I wonder if design can address these issues, at least to raise awareness and help people see an urgent problem like this from a more human perspective, like the Italian designers Francesca Fragapane and Alex Piacentini did in their recent web project <i>The Stories Behind a Line – a visual narrative of six asylum seekers routes</i></i><sup>9</sup>. Since I’m interested in information design and data visualization, I think this could be another possible direction for the development of my MDES Thesis. 
+
+IMAGE 5 (left) <i>It’s Real</i>, 589 matches and 49 sandpaper stripes. 
+
+SUBHEAD: 
+<i>Questions</i>
+
+ESSAY: 
+<i>How can design raise awareness about complex and urgent global issues while encouraging the diffusion of accurate information? How can design and data science help in addressing the problem of fake news?How can design encourage inclusion and disrupt intolerance by addressing the viral way information spread on the web?</i>
+
+SUBHEAD: 
+Mapping music
+
+ESSAY: 
+Being both a designer and a trained musician, I always thought about the design process as something related to the musical composition process, reflecting about their similar dynamics and strategies. At the same time, my interest for mapping and visualization brought me to wonder about the possibilities of visualizing non-visual perceptions and music in particular. I am deeply inspired by the work of the Greek artist Iannis Xenakis, who in his career constantly crossed the borders between architecture, design and music, producing a seminal research on the visualization of sounds. Today, the boundaries between design and music seem to get more and more blurred: an eloquent example is the birth of the professional role of sound designer<sup>10</sup>. There are many examples of research directly related to my field of interests that I am looking into, such as scientific studies on chromesthesia<sup>11</sup>, on the graphic perception of sounds, or music visualization projects like the one<sup>12</sup> recently published by Giorgia Lupi and her Accurat team in collaboration with musician Kaki King, which investigates questions such as <i>“can we feel data? and can we see music?”</i> Thus, I think this could be a third hypothetical direction for my research, in which I could focus on the interaction between music, design and space, the possibility to blur the line between visual and auditive perception, and the challenge of extracting data from sounds, with the goal of analyzing and visualizing them. 
+
+IMAGE 6 (right) <i>‘Heroes’ Graphic Score</i>, chromesthesia visualization. 
+
+SUBHEAD: 
+<i>Questions</i>
+
+ESSAY: 
+<i>How can we use information design to visualize non-visual perceptions?How can we use data science to extract data from music in order to analyze it and visualize it?How can music, design and space interact?</i>
+
+
+Footnotes
+
+Kathrine Harmon, You Are Here: <i>Personal Geographies and Other Maps of the Imagination</i> (New York: Princeton Architectural Press, 2003), 10.
+American artist. Some of her most successful installations are based on the interaction between typography, graphic design and space.
+ Design Studio based in NYC. Many of their work focus on the introduction of graphic design in a tridimensional environment, and are developed in close collaboration with renowned architects. British designer, writer and artist whose work mainly focuses on information design and data visualization. American information designer. Among his most famous works is the Feltron Project, a series of personal annual reports registering and visualizing detailed data from his personal life. Canadian digital artist working on the boundaries between data science, graphic design and abstract art. Rock, Michael. “Graphic Design in the Expanded Field: An interview with Michael Rock, 2X4 New York, NY July 27, 2010” in <i>Perspecta: The Yale Architectural Journal</i>, 44, pp. 168-176. The MIT Press, 2011. 
+
+Expo for Design, Innovation & Technology, Sept. 28 - Oct. 18, 2017, Toronto. www.storiesbehindaline.com
+
+Sound design is the art and practice of creating sound tracks for a variety of needs. It involves specifying, acquiring or creating auditory elements using audio production techniques and tools. Source: wikipedia.org/wiki/Sound_designA type of synesthesia in which heard sounds automatically and involuntarily evoke an experience of color. Source: wikipedia.org/wiki/Chromesthesia<i>A dialogue between four hands: can we feel data? And can we see music?</i>giorgialupi.com/a-dialogue-between-four-hands-my-ongoing-collaboration-with-kaki-king/
+
+BIO: 
+Andrea Giambelli is an Italian designer, currently pursuing his Master of Design at York University. A graduate of Politecnico di Milano (BS and MS in Architecture), he gained experience in architectural and graphic design during a two-year collaboration with a renowned Milanese firm, and through several freelance projects. His research interests span from corporate identity and branding to information design and data visualization. His work is driven by a constant will to explore different expressive mediums and creative disciplines.
+
+
+
+
+Layout Images (PNG) (in slider)
+    about 3600px wide
+
+Essay Text
++ Bold / Italic / Underline (for example: <b>bold text</b> <i>italic text</i> <u>underlined text</u>)
++ Images / Captions
++ Pull Quotes
++ Citations (for example: <sup>5</sup>)
++ Footnotes (un-numbered list)
+
+please indicate which paragraph the images & quotes should go after and whether they are left or right aligned.
+
+
+Bio Section
++ Bio
++ Links (website, etc)
++ Photo (in blue monotone)
